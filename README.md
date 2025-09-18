@@ -21,8 +21,6 @@ Next.js와 TypeScript를 사용하여 반응형 디자인과 부드러운 게임
 
 ## 🚀 라이브 데모
 
-프로젝트가 실시간으로 배포되어 있습니다:
-
 **[게임 플레이하기](https://vercel.com/akgk70007-5907s-projects/v0-remix-of-snake-game-creation)**
 
 ## 🛠️ 기술 스택
@@ -67,3 +65,5 @@ Next.js와 TypeScript를 사용하여 반응형 디자인과 부드러운 게임
 ---
 
 **즐거운 게임 되세요! 🎉**
+Thanks to 영준
+
