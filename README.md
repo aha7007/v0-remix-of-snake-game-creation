@@ -58,10 +58,6 @@ Next.js와 TypeScript를 사용하여 반응형 디자인과 부드러운 게임
 
 **[v0.app에서 편집하기](https://v0.app/chat/projects/eoMw8NFJCLm)**
 
-## 📝 라이선스
-
-이 프로젝트는 MIT 라이선스 하에 배포됩니다.
-
 ---
 
 **즐거운 게임 되세요! 🎉**
